@@ -1,5 +1,7 @@
 # Isekai: Nexus Singularity Engine
 
+![Isekai: Nexus Singularity Engine](https://www.lexidecktechnologies.com/img/Isekai_Nexus_Singularity_Engine.png)
+
 **(異世界：枢軸特異機関 - Isekai: Sujiku Tokui Kikan)**
 
 **Your story on Earth has ended. Your new world awaits.**
