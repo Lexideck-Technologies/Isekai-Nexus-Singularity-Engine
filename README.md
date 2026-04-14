@@ -30,7 +30,7 @@ There is no code because there is no code to write. The engine is a system of in
 Any AI model with a large context window and instruction-following capability will work. Recommended:
 
 - **Claude** (Anthropic) - Excellent narrative quality and rule adherence
-- **GPT-4 / GPT-4o** (OpenAI) - Strong creative output and system comprehension
+- **GPT-5.4 / GPT-6** (OpenAI) - Strong creative output and system comprehension
 - **Gemini** (Google) - Good for extended sessions with large context
 
 ### Step 2: Load the Engine
