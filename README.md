@@ -25,7 +25,7 @@ There is no code because there is no code to write. The engine is a system of in
 
 ## Quick Start
 
-### Step 1: Choose Your Platform
+### Choose Your Platform
 
 Any AI model with a large context window and instruction-following capability will work. Recommended:
 
@@ -33,26 +33,44 @@ Any AI model with a large context window and instruction-following capability wi
 - **GPT-5.4 / GPT-6** (OpenAI) - Strong creative output and system comprehension
 - **Gemini** (Google) - Good for extended sessions with large context
 
-### Step 2: Load the Engine
+### How to Play
 
-1. Open a new conversation with your chosen AI
-2. Upload or paste the contents of `engine/Nexus_Singularity_Engine_v4_4.md` as the system prompt or initial context
-3. Upload or paste `engine/meta-instructions.md` alongside it
+The engine is designed to receive information **when it needs it, not all at once.** This keeps the AI's context window focused and produces better results at every stage.
 
-### Step 3: Choose a World
+#### Step 1: Ignition
 
-Upload one world file from the `worlds/` directory. The AI will use it as the setting for your adventure. Or skip this step and let the engine offer you a selection during character creation.
+Open a new conversation with your chosen AI. Upload two files together with your first message:
 
-### Step 4: Begin
+- `engine/Nexus_Singularity_Engine_v4_4.md` (the core rules)
+- `engine/meta-instructions.md` (the AI's game master guide)
 
-Type `!isekai.me` and follow the prompts.
+In the same message, type **`!isekai.me`** to begin.
 
-The engine will guide you through:
+That's it. Two files, one command. The engine handles everything from here.
+
+> **Optional: Pre-built backstory.** If you want a richer character without doing the work yourself, run `engine/backstory-generator.md` in a *separate* conversation first. Give it as much or as little as you want ("I was a burned-out Tokyo paramedic" or just `!backstory.me` for full randomization). It will generate a complete backstory and end with `!isekai.me`. Copy the full output into Step 1 as your opening message alongside the two engine files.
+
+#### Step 2: Character Creation
+
+Follow the prompts. The engine will walk you through:
+
 - Your death and transportation method
-- A motivational inquiry that shapes your character build
+- A motivational inquiry that shapes your character build (Power, Freedom, Understanding, Redemption, Peace, Love)
 - Talent and class assignment from weighted pools
-- World selection (if not pre-loaded)
-- Your first breath in a new reality
+
+No world file is needed yet. Everything in this phase runs from the core engine.
+
+#### Step 3: World Selection
+
+The engine will present 3-5 world options based on your character. When you make your choice, **upload the corresponding world file** from the `worlds/` directory in the same message as your selection.
+
+This is the key moment: the AI now receives the full world knowledge exactly when it needs it. The engine's built-in world summaries are enough for you to choose; the world file is what the AI needs to *run* it faithfully.
+
+> If you choose "Let fate decide," upload the world file the engine selects for you.
+
+#### Step 4: First Breath
+
+The engine places you in a starting zone with multiple entry points. Choose your starting vector from the Alternate Start options the engine presents, and your adventure begins.
 
 ---
 
@@ -162,6 +180,7 @@ The engine will guide you through:
 engine/
   Nexus_Singularity_Engine_v4_4.md   Core game system (v4.4)
   meta-instructions.md               How to run the engine (9-phase guide)
+  backstory-generator.md             Optional pre-game character backstory tool
   world-template.md                  Template for creating new worlds
 worlds/                              45 complete world files
 media/                               World illustrations (coming soon)
