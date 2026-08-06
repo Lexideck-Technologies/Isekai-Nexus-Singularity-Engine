@@ -33,11 +33,9 @@ The fourth is a reflection.
 
 ## Preferences 
 
-- 2:1 Female to male probability, player favors female main character.
 - Realistic new character or valid target for fan fiction from media
-- Tragic backstory or death
-- Authentic Asian names > Western names
-- Genre tropes are fine
+- Authentic Asian names when applicable
+- Manga and manwha genre tropes are fine
 
 ## DATA TABLES (Variables)
 
