@@ -1,0 +1,67 @@
+{
+  "archives": [
+    {
+      "archive": "isekai-nexus-character-and-progression.zip",
+      "entry": "isekai-nexus-character-and-progression/SKILL.md",
+      "sha256": "1d76b0d7873cccb8ba8346daa7ca590edc5bab3e432d43563314d28759a775ef",
+      "source_bytes_preserved": true
+    },
+    {
+      "archive": "isekai-nexus-creation-and-entry.zip",
+      "entry": "isekai-nexus-creation-and-entry/SKILL.md",
+      "sha256": "c2b7d79a3e2be6ea2561f84be33cce93b1d827b4665449dc60421fc39ac2ca1b",
+      "source_bytes_preserved": true
+    },
+    {
+      "archive": "isekai-nexus-gameplay-procedures.zip",
+      "entry": "isekai-nexus-gameplay-procedures/SKILL.md",
+      "sha256": "cdd3e4616c28a4ebeb681f10433e0cdb80c2847022c272e11b29b2c42886d37d",
+      "source_bytes_preserved": true
+    },
+    {
+      "archive": "isekai-nexus-navigation.zip",
+      "entry": "isekai-nexus-navigation/SKILL.md",
+      "sha256": "005e6f00b83a94aba68f7147db5c3f891d6defb3d732008765c554ef4a9a2e1c",
+      "source_bytes_preserved": true
+    },
+    {
+      "archive": "isekai-nexus-singularity-engine-v6.zip",
+      "entry": "isekai-nexus-singularity-engine-v6/SKILL.md",
+      "sha256": "e85bec6a9c719585e6ab22c1cf7b7e3224340db40851cdabc3f1355670d4e791",
+      "source_bytes_preserved": true
+    },
+    {
+      "archive": "isekai-nexus-social-and-economy.zip",
+      "entry": "isekai-nexus-social-and-economy/SKILL.md",
+      "sha256": "a8d9e033d375374d42c00667f8925654328c35a4ce29548fcb8289c991ac7873",
+      "source_bytes_preserved": true
+    },
+    {
+      "archive": "isekai-nexus-source-and-license.zip",
+      "entry": "isekai-nexus-source-and-license/SKILL.md",
+      "sha256": "9346bfa28f4f7a3f0e12ce5f9771f0e28f2b35dc6a77e1a54c505f898c161872",
+      "source_bytes_preserved": true
+    },
+    {
+      "archive": "isekai-nexus-world-and-scene.zip",
+      "entry": "isekai-nexus-world-and-scene/SKILL.md",
+      "sha256": "3e66e5d7a8e8e1a9279eec749d3609b4cb26be7326bcb65c70e204a8172e2e88",
+      "source_bytes_preserved": true
+    }
+  ],
+  "count": 8,
+  "zip_readback_verified": true,
+  "gemini_upload_accepted": true,
+  "cross_skill_access_verified": false,
+  "gemini_upload_evidence": "User reported all eight individually uploaded skills accepted.",
+  "live_opening_evidence": [
+    "User supplied successful backstory output.",
+    "User reported all nine alternate starts offered for Superearth Olympus."
+  ],
+  "cross_skill_access_note": "Observed opening works; comprehensive dependency traversal has not been independently established.",
+  "checked_local_links": 265,
+  "procedures": 23,
+  "worlds": 45,
+  "world_content_matches_working_library": true,
+  "sustained_gameplay_verified": false
+}
