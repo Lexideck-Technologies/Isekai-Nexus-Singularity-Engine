@@ -24,3 +24,9 @@ The creator reports all eight skill uploads accepted, a successful backstory ope
 - Includes a portable runtime ZIP and workspace installation guide, with no hooks or global configuration changes.
 - Verified native skill metadata, 311 local links, byte-preserved worlds, and fresh app-server discovery of all 24 enabled skills. Five behavioral simulations and a focused regression check passed; sustained live Codex gameplay remains unverified.
 - Retains version 6 and the existing Gemini archives.
+
+## Speech-friendly presentation
+
+- Adds matching entry instructions and abstract System, status, contract/item, and update templates in Gemini and Codex.
+- Replaces fenced brief-alert examples with prose; gameplay panels omit repeated-symbol borders. Requested code and copyable exports remain supported.
+- Changes two Gemini ZIPs, two Codex runtime files, and the portable Codex ZIP; preserves all worlds and mechanics. Structure and text simulations pass. Android speech and revised Gemini upload acceptance remain untested.

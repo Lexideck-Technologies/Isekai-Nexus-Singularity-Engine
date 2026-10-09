@@ -1,13 +1,13 @@
 [
   {
     "path": "isekai-nexus-v6-codex.zip",
-    "bytes": 654185,
-    "sha256": "09e138e001b736871df3eda8d1b46f11f4bc3c78ec90bd07205f40c471b5be3c"
+    "bytes": 655875,
+    "sha256": "ce7043b7cb98a225870977684376cf64461472938ebb4efccbf16f80aab01077"
   },
   {
     "path": "README.md",
-    "bytes": 3898,
-    "sha256": "18f14534baad2ae857bd73c0c8694980bb7e6ec7611263550de3795cea999b1e"
+    "bytes": 4253,
+    "sha256": "fe0e163e801744f88c1e9729350a18701560604f7aeb0ccad234d0bc8f88b1db"
   },
   {
     "path": "skills/isekai-academy/agents/openai.yaml",
@@ -236,8 +236,8 @@
   },
   {
     "path": "skills/isekai-nexus/references/interface-rules.md",
-    "bytes": 3730,
-    "sha256": "399318034fba1f13a986d93928e21d40e525b6009a5420ac1011ca3631bf72e7"
+    "bytes": 5704,
+    "sha256": "ac67618f5ac5e1412ef0e3e4dd0634bacda6c9ebbf12c38000cdd243b6e37e1c"
   },
   {
     "path": "skills/isekai-nexus/references/learning-loops.md",
@@ -331,8 +331,8 @@
   },
   {
     "path": "skills/isekai-nexus/SKILL.md",
-    "bytes": 2466,
-    "sha256": "87ca9f0ba6fbbea8031d8ce8c5eccc8c61aed2b4df7f883903ef44db44691321"
+    "bytes": 3505,
+    "sha256": "687f0b463fa678cc9138441c06a066ee72fe6daa86d21d6318b5322c0dd80f95"
   },
   {
     "path": "skills/isekai-nexus/worlds/33-heavens-conglomerate-isekai.md",

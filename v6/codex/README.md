@@ -44,6 +44,10 @@ The [play contract](skills/isekai-nexus/references/codex-play-contract.md) prese
 
 No hooks, background service, new MCP connection, or global configuration change is required.
 
+## Speech-friendly displays
+
+Gameplay panels use headings, labeled lines, and blank lines, with matching entry and shared-interface templates in both editions. Updated tactical-panel and brief-alert simulations preserve conditions and once-only rewards. Android read-aloud remains untested.
+
 ## Verification
 
 - 24 native-valid skills and 311 resolved local links.

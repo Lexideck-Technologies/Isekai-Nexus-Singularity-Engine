@@ -81,6 +81,10 @@ Install all eight. Together they supply the entry point, navigation, procedures,
 
 Each archive contains one folder whose name matches its `SKILL.md` metadata. There are no development documents or world files inside these skill archives.
 
+## Speech-friendly displays
+
+System messages and gameplay panels use ordinary headings, labeled lines, and blank lines. Code blocks are reserved for requested code or copyable exports. To update an existing Gemini installation, replace only the Nexus entry and World and Scene skills with their current individual ZIPs. Android read-aloud behavior for this patch remains to be tested.
+
 ## Built for ongoing play
 
 Nexus supports exploration, academy life, cultivation, missions, expeditions, technique creation, personal systems, recovery, relationships, crafting and trade, communities, domains, survival, and multiversal travel.
@@ -93,7 +97,7 @@ Player choices and accepted character promises guide play. A powerful protagonis
 
 The creator reports that Gemini accepted all eight individual skill uploads. A live backstory prompt produced the intended opening, and Superearth Olympus offered all nine alternate starts.
 
-Local checks confirm eight valid single-skill archives, 23 procedure sections, 265 linked file/anchor references across the combined skill layout, and 45 world files matching the working library. The release preserves the tested skill ZIPs byte for byte.
+Local checks confirm eight valid single-skill archives, 23 procedure sections, 265 linked file/anchor references across the combined skill layout, and 45 world files matching the working library. The six unchanged skill ZIPs preserve their tested bytes; the entry and World and Scene ZIPs include the speech-friendly presentation patch.
 
 These are encouraging opening tests. Sustained progression, mixed activity turns, interruptions, world transfers, and comprehensive access between separately installed skills remain to be tested. Local link checks establish the package's structure; they do not prove Gemini's handling of every dependency.
 
