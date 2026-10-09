@@ -1,0 +1,6 @@
+interface:
+  display_name: "isekai-survival"
+  short_description: "Nexus play: Survival procedure"
+  default_prompt: "Use $isekai-survival for my Nexus survival request."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "isekai-ingestion"
+  short_description: "Nexus play: Ingestion procedure"
+  default_prompt: "Use $isekai-ingestion for my Nexus ingestion request."
+policy:
+  allow_implicit_invocation: true

@@ -17,3 +17,10 @@
 ## Validation status
 
 The creator reports all eight skill uploads accepted, a successful backstory opening, and all nine Olympus starts offered. Local ZIP, metadata, 23-procedure, 265-link, and 45-world integrity checks pass. Sustained gameplay and comprehensive cross-skill access remain open.
+
+## Codex distribution
+
+- Adds 24 local `isekai-*` skills with scoped semantic routing, shared references, and 45 complete worlds.
+- Includes a portable runtime ZIP and workspace installation guide, with no hooks or global configuration changes.
+- Verified native skill metadata, 311 local links, byte-preserved worlds, and fresh app-server discovery of all 24 enabled skills. Five behavioral simulations and a focused regression check passed; sustained live Codex gameplay remains unverified.
+- Retains version 6 and the existing Gemini archives.

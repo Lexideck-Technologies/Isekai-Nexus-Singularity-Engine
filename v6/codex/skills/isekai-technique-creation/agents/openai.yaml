@@ -1,0 +1,6 @@
+interface:
+  display_name: "isekai-technique-creation"
+  short_description: "Nexus play: Technique Creation procedure"
+  default_prompt: "Use $isekai-technique-creation for my Nexus technique creation request."
+policy:
+  allow_implicit_invocation: true

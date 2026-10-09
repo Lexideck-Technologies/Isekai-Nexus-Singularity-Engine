@@ -1,0 +1,6 @@
+interface:
+  display_name: "isekai-montage"
+  short_description: "Nexus play: Montage procedure"
+  default_prompt: "Use $isekai-montage for my Nexus montage request."
+policy:
+  allow_implicit_invocation: true
