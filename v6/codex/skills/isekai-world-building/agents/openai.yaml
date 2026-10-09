@@ -1,0 +1,6 @@
+interface:
+  display_name: "isekai-world-building"
+  short_description: "Nexus play: World Building procedure"
+  default_prompt: "Use $isekai-world-building for my Nexus world building request."
+policy:
+  allow_implicit_invocation: true

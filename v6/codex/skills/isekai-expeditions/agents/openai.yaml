@@ -1,0 +1,6 @@
+interface:
+  display_name: "isekai-expeditions"
+  short_description: "Nexus play: Expeditions procedure"
+  default_prompt: "Use $isekai-expeditions for my Nexus expeditions request."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "isekai-cultivation"
+  short_description: "Nexus play: Cultivation procedure"
+  default_prompt: "Use $isekai-cultivation for my Nexus cultivation request."
+policy:
+  allow_implicit_invocation: true

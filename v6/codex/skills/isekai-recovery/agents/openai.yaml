@@ -1,0 +1,6 @@
+interface:
+  display_name: "isekai-recovery"
+  short_description: "Nexus play: Recovery procedure"
+  default_prompt: "Use $isekai-recovery for my Nexus recovery request."
+policy:
+  allow_implicit_invocation: true

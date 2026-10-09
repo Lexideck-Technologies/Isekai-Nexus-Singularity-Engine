@@ -1,0 +1,6 @@
+interface:
+  display_name: "isekai-exploration"
+  short_description: "Nexus play: Exploration procedure"
+  default_prompt: "Use $isekai-exploration for my Nexus exploration request."
+policy:
+  allow_implicit_invocation: true

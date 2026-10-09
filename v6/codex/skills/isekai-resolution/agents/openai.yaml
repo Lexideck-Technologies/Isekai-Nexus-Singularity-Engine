@@ -1,0 +1,6 @@
+interface:
+  display_name: "isekai-resolution"
+  short_description: "Nexus play: Resolution procedure"
+  default_prompt: "Use $isekai-resolution for my Nexus resolution request."
+policy:
+  allow_implicit_invocation: true

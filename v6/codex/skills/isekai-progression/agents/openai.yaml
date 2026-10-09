@@ -1,0 +1,6 @@
+interface:
+  display_name: "isekai-progression"
+  short_description: "Nexus play: Progression procedure"
+  default_prompt: "Use $isekai-progression for my Nexus progression request."
+policy:
+  allow_implicit_invocation: true

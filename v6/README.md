@@ -6,7 +6,12 @@ Nexus is an AI-run roleplaying engine for second lives, impossible talents, acad
 
 Version 6 connects 23 play procedures through eight Gemini skills. The worlds travel separately: install the engine once, then attach the complete world you want to enter.
 
-## Start here
+## Choose your edition
+
+- **Codex:** install 24 local skills with the complete world library. Follow the [Codex installation guide](codex/README.md).
+- **Gemini:** upload eight individual skill ZIPs and attach your selected world. Follow the quick start below.
+
+## Gemini quick start
 
 1. Download this repository using **Code > Download ZIP**, then extract it.
 2. Open Gemini on the web and go to **Settings > Skills > Upload**.
@@ -59,7 +64,7 @@ The broader collection ranges from intimate social drama to magitech civilizatio
 
 Browse the [complete world library](isekai-nexus-world-library/WORLD-INDEX.md).
 
-## The eight skills
+## The eight Gemini skills
 
 Install all eight. Together they supply the entry point, navigation, procedures, shared rules, and mechanical reference.
 
@@ -99,6 +104,7 @@ If play loses a required rule or world document, provide the missing material ra
 ```text
 v6/
   README.md
+  codex/                            Codex skills, portable ZIP, and guide
   eight individually uploadable skill ZIPs
   LICENSE.md
   ATTRIBUTION.md
@@ -114,7 +120,7 @@ engine/                             earlier engine material
 worlds/                             earlier world material
 ```
 
-The `v6/` directory is the current Gemini distribution. Earlier repository material remains available for continuity; follow the v6 instructions for this edition. Private development and memory material are excluded.
+The `v6/` directory contains the current Gemini and Codex distributions. Earlier repository material remains available for continuity; follow the v6 instructions for this edition. Private development and memory material are excluded.
 
 ## License and lineage
 
