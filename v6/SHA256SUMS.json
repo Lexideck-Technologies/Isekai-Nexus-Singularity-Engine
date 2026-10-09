@@ -1,0 +1,307 @@
+[
+  {
+    "path": "ATTRIBUTION.md",
+    "bytes": 772,
+    "sha256": "2d07eda2069da9ed77205ad45cb3318772b1766eb3826a73086c346d3e26439b"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "bytes": 1146,
+    "sha256": "055cabe363c46616cfabb9b86531bf32bbdd2e9309182ea6966c428a0b0a7fe6"
+  },
+  {
+    "path": "isekai-nexus-character-and-progression.zip",
+    "bytes": 17287,
+    "sha256": "1d76b0d7873cccb8ba8346daa7ca590edc5bab3e432d43563314d28759a775ef"
+  },
+  {
+    "path": "isekai-nexus-creation-and-entry.zip",
+    "bytes": 12304,
+    "sha256": "c2b7d79a3e2be6ea2561f84be33cce93b1d827b4665449dc60421fc39ac2ca1b"
+  },
+  {
+    "path": "isekai-nexus-gameplay-procedures.zip",
+    "bytes": 14009,
+    "sha256": "cdd3e4616c28a4ebeb681f10433e0cdb80c2847022c272e11b29b2c42886d37d"
+  },
+  {
+    "path": "isekai-nexus-navigation.zip",
+    "bytes": 9327,
+    "sha256": "005e6f00b83a94aba68f7147db5c3f891d6defb3d732008765c554ef4a9a2e1c"
+  },
+  {
+    "path": "isekai-nexus-singularity-engine-v6.zip",
+    "bytes": 1073,
+    "sha256": "e85bec6a9c719585e6ab22c1cf7b7e3224340db40851cdabc3f1355670d4e791"
+  },
+  {
+    "path": "isekai-nexus-social-and-economy.zip",
+    "bytes": 9717,
+    "sha256": "a8d9e033d375374d42c00667f8925654328c35a4ce29548fcb8289c991ac7873"
+  },
+  {
+    "path": "isekai-nexus-source-and-license.zip",
+    "bytes": 23920,
+    "sha256": "9346bfa28f4f7a3f0e12ce5f9771f0e28f2b35dc6a77e1a54c505f898c161872"
+  },
+  {
+    "path": "isekai-nexus-world-and-scene.zip",
+    "bytes": 21328,
+    "sha256": "3e66e5d7a8e8e1a9279eec749d3609b4cb26be7326bcb65c70e204a8172e2e88"
+  },
+  {
+    "path": "isekai-nexus-world-library/ATTRIBUTION.md",
+    "bytes": 598,
+    "sha256": "1bfc4f2f415fda503c19abeb59e3aab399c7a1990e4dc430ffe8599dfa682050"
+  },
+  {
+    "path": "isekai-nexus-world-library/LICENSE.md",
+    "bytes": 1676,
+    "sha256": "4b8a03444507406d9651539e6e4a6bcfa5b28edeb45d2dff3de4a8248240fe32"
+  },
+  {
+    "path": "isekai-nexus-world-library/WORLD-INDEX.md",
+    "bytes": 6204,
+    "sha256": "29c1dde6410834e0fc8f19dd31e6b2b90abc4624c992dbb29a6a62f9ac830d8a"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/33-heavens-conglomerate-isekai.md",
+    "bytes": 21019,
+    "sha256": "0ed1fda82f27bfd3ad5fccc1770d4e946bf34c20afbf74c3d4665e3919345161"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/aegis-earth-isekai.md",
+    "bytes": 27196,
+    "sha256": "7976416500cd195712707355a984f94519f54a8237bad849b29e3d6113c360ae"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/aethel-isekai.md",
+    "bytes": 27541,
+    "sha256": "41eb175159bd335f1f9fe70be8b582a72482090c3297894e5df31a65815257a4"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/cerulean-expanse-isekai.md",
+    "bytes": 22587,
+    "sha256": "bae1a3fcab2e87de5727d96dfa63954ab4c46e38f9ab22bdb032e591423ae0f5"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/cherrywood-high-isekai.md",
+    "bytes": 32521,
+    "sha256": "f88b309d51ac8c3bfa1f52a0bd3d8f8d76be29ee8198f7d9551e203d0408c141"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/chroma-clash-isekai.md",
+    "bytes": 36021,
+    "sha256": "ba402e147c609e2266826964a33a08d15faf9d3b75dbc797708ea2deaa803833"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/deus-ex-machina-isekai.md",
+    "bytes": 21277,
+    "sha256": "9db4e77a7468e5223fc7247e6fe4d143baa9de01ed3593e60c67332017336aa7"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/draconia-prime-isekai.md",
+    "bytes": 26838,
+    "sha256": "baa42fed757c4a050db37d5f8ec4e9f8f20a951498a8e4f8a8f5b2b4455f041b"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/drive-thrus-drag-races-isekai.md",
+    "bytes": 30986,
+    "sha256": "0b97a1334b88a4a1529d38a4c9ed7aab3ac3aa51fb2f16eeee8cbf3e5437d96c"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/elysian-accord-isekai.md",
+    "bytes": 28765,
+    "sha256": "d9353e7331b68865f75cf5dd61f2bb445e9af0a6f96c0bf45403c07d5550b1d3"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/empyrean-veil-isekai.md",
+    "bytes": 28908,
+    "sha256": "3fa097ae61e9b6acc44279d4609887387a3f8283fa60ee714c892ec071bc51c6"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/erebos-the-ashen-dream-isekai.md",
+    "bytes": 28389,
+    "sha256": "5390d3f2e19219d9639f91b3b24041cdd9c878b3920c6ae2a152cbdb85f9d198"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/fast-cars-furious-streets-isekai.md",
+    "bytes": 33049,
+    "sha256": "5995af7d354e2de3faf4760b127d71ca08e2e62ea7158c126195080b1f418d24"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/galactic-bolter-boxing-isekai.md",
+    "bytes": 33424,
+    "sha256": "f015c350992552c3c0da9150995b3d2819121dbadba282c3a1fab7a4c2f89d87"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/gods-empires-isekai.md",
+    "bytes": 33576,
+    "sha256": "89ce62870483e11ea8611795ab968479f01f270ea665987d1f24b59f09cf546d"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/haustoria-isekai.md",
+    "bytes": 29565,
+    "sha256": "112701d372dd2c7a2e0fa61606d5092eb5f67a2be2d38e13c63ff8b95884fa5e"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/hexgold-trail-isekai.md",
+    "bytes": 23227,
+    "sha256": "402d690fc462a56e41bc1c9db5b0ba1dfb60a307dfb5ca9ae55ffb8970498a1b"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/iron-dawn-isekai.md",
+    "bytes": 23273,
+    "sha256": "f87115cc6a7ad8c69bec40b7ab33d1b15e7117b515da91036907926df1b9f3fd"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/jericho-prime-isekai.md",
+    "bytes": 22261,
+    "sha256": "f3dbf4626969267efdab6de5729d527ea661b14aa5a2a86af6efd1653a66fcf1"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/jurassica-isekai.md",
+    "bytes": 29911,
+    "sha256": "77773161a3d96afedc9c51eee7404792e8f18f4d8ebe287c08d6e608b6afc774"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/kairos-isekai.md",
+    "bytes": 30390,
+    "sha256": "a7f7b6ead5ad40b5c8eff4722ec0a9541f5855dac25f93038de214143b2cff3c"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/makers-crucible-isekai.md",
+    "bytes": 36077,
+    "sha256": "35253b85611c8f91b0c51c883fced39af328c877b812f398b569312980fa1080"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/necro-flora-prime-isekai.md",
+    "bytes": 21813,
+    "sha256": "550176797d762e0fdea19c5c39c39e824e1bcdd1dc931996f23bde4c434b2524"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/neon-megalopolis-isekai.md",
+    "bytes": 32903,
+    "sha256": "ca4b131d5c01e1ae829e3963236655da3554a874abf38108fa88b6113348eff0"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/neurowarden-isekai.md",
+    "bytes": 37107,
+    "sha256": "147e2c4e457b9c36bf54134ba3b86a3bde3ca02aef80530d07b7633e8e782465"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/nine-hells-peaks-isekai.md",
+    "bytes": 22664,
+    "sha256": "51dbf20121388db74aefcbfa36dff13cd865d8559ffb3f381c24ebd36fd20d12"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/sarcophagi-saucers-isekai.md",
+    "bytes": 36674,
+    "sha256": "09ae7e735977be9569e2bccca458cf7a1eaa6cf0f24742c079756429e8a25226"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/shaken-not-stirred-isekai.md",
+    "bytes": 36085,
+    "sha256": "0333577c24821dd972c0bb49c175cf33c9de1f478abc0f6c2372046170d94a69"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/shattered-tides-isekai.md",
+    "bytes": 22103,
+    "sha256": "c9dacfe75d6e8a2d278c84b9e5dd55e15d4763887551acec2bdba031186f6c69"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/shura-no-tenka-isekai.md",
+    "bytes": 29061,
+    "sha256": "cd59e8989992944d4fed3ba4dc44a59bf30ba9fae153597fb56a119e483ec711"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/silver-city-shadows-isekai.md",
+    "bytes": 40988,
+    "sha256": "c5db110e5efe3a26f2c6cf4f05c31d9108ff27b97e7cca8895dd0f044e6ef661"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/six-shooters-stagecoaches-isekai.md",
+    "bytes": 36086,
+    "sha256": "acb8bcb8b69a032943486dfe25ce42176d282407961d13f41d8533e119e40fa5"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/solar-corps-isekai.md",
+    "bytes": 37950,
+    "sha256": "92e82675f318b5901c66899f9cde8a33f3ce18b69f6e915519844d98a57c7f9e"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/soul-virus-isekai.md",
+    "bytes": 29923,
+    "sha256": "554e14a2c212f3c6568197bdc8fb2913aa3abef153736dbbdbac47103669b802"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/stellar-drakonics-isekai.md",
+    "bytes": 30913,
+    "sha256": "e4c7e362a33070280a86d464ac9c142063363a4f3eaa5ee4630058283df16ec5"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/stellar-nursery-isekai.md",
+    "bytes": 31186,
+    "sha256": "f4539df7342f70ac0c274c6e771d56770e52b2609c00b26f8a5aafee64a151a8"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/superearth-olympus-isekai.md",
+    "bytes": 50601,
+    "sha256": "8f31492b273262582e871debfbdb189c61e63725d01308230b7391d79aaa06c3"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/symphonia-isekai.md",
+    "bytes": 21325,
+    "sha256": "2c542704444e00a0186ae8d8f13fe19f99b27d4da0e76658c6e1034e6c8bc836"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/tenebrous-creek-isekai.md",
+    "bytes": 33010,
+    "sha256": "2c665bac31355ea37710399bf287c4363c22418cac546527ef9cce8b3669c1ba"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/tundrahearth-isekai.md",
+    "bytes": 25642,
+    "sha256": "447d06fdb7490ced0c8c835384d14054156e822b0a9ed74d67d8d180b5e5ee39"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/veridia-isekai.md",
+    "bytes": 20991,
+    "sha256": "d88ffa3661fff0757fb542fe7a1ae107111c0e47f4b9bb8ad5f2e36b83df1f54"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/vesper-engine-isekai.md",
+    "bytes": 21897,
+    "sha256": "35ab6ce381d5611062cac735981f9e669002738a1f8a929188673eb714ae0da1"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/virelia-isekai.md",
+    "bytes": 27781,
+    "sha256": "c29992c4533c916086ea4f330676e40e4ae4d70cb83fbcf6daa42ab037f3c372"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/viscera-gardens-isekai.md",
+    "bytes": 22147,
+    "sha256": "e6179abd4e9ad481443655fa65505a9c294145751f3c454dff1de62cb12bec44"
+  },
+  {
+    "path": "isekai-nexus-world-library/worlds/wonderland-5d-isekai.md",
+    "bytes": 34881,
+    "sha256": "ccfdee55bf6bfadd4ebd6bb87d6649191fd7248fa36c8d826bc9b3ba7da9b8f2"
+  },
+  {
+    "path": "LICENSE.md",
+    "bytes": 1676,
+    "sha256": "4b8a03444507406d9651539e6e4a6bcfa5b28edeb45d2dff3de4a8248240fe32"
+  },
+  {
+    "path": "package-receipt.json",
+    "bytes": 2745,
+    "sha256": "b84255fd94837db3b54082b71bbce976ebb8ef53580a8f5f727f933b17ed8482"
+  },
+  {
+    "path": "README.md",
+    "bytes": 8196,
+    "sha256": "293aa553b396aec9b2e34581a8daeae93d453d37d58d42f59417550fb7eb55c8"
+  }
+]

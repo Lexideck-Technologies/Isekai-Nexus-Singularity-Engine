@@ -1,0 +1,2 @@
+# Preserve distributed release bytes and their published checksums on every OS.
+v6/** -text

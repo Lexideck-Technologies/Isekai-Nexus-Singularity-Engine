@@ -1,262 +1,125 @@
-# Isekai: Nexus Singularity Engine
+# Isekai: Nexus Singularity Engine v6
 
-![Isekai: Nexus Singularity Engine](https://www.lexidecktechnologies.com/img/Isekai_Nexus_Singularity_Engine.png)
+**One life behind you. Forty-five worlds ahead. What will you become?**
 
-**(異世界：枢軸特異機関 - Isekai: Sujiku Tokui Kikan)**
+Nexus is an AI-run roleplaying engine for second lives, impossible talents, academy rivalries, hard-won friendships, and journeys across worlds. Bring a character, choose a destination, and make the next decision yours.
 
-**Your story on Earth has ended. Your new world awaits.**
+Version 6 connects 23 play procedures through eight Gemini skills. The worlds travel separately: install the engine once, then attach the complete world you want to enter.
 
-The Nexus Singularity Engine is a complete tabletop-style RPG system designed to be run entirely by an AI game master. There is no code. The AI *is* the engine.
+## Start here
 
-Load the system prompt into any capable large language model (Claude, GPT-4, Gemini, etc.), attach a world file, and type `!isekai.me` to begin.
+1. Download this repository using **Code > Download ZIP**, then extract it.
+2. Open Gemini on the web and go to **Settings > Skills > Upload**.
+3. Open the `v6/` folder and upload **each of its eight skill ZIPs separately**. Review and create each skill. Keep the ZIP files intact for upload.
+4. Choose a destination from the [world index](v6/isekai-nexus-world-library/WORLD-INDEX.md).
+5. Start a chat, select the Nexus entry skill through Gemini's skill picker, and attach that destination's complete Markdown file from `v6/isekai-nexus-world-library/worlds/`.
+6. Tell Nexus who you were, or type `!isekai.me` and begin creating your character.
 
----
+The eight ZIPs are separate installation units. Uploading the entire distribution as one skill did not work in the reported tests. The world library stays on your device until you attach a chosen world to the play chat.
 
-## What Is This?
+## Begin with a life
 
-This is a prompt-driven interactive fiction engine that turns any sufficiently capable AI into a full game master for isekai-style adventures. The system includes:
+You can give Nexus a detailed history, a few sentences, or a single compelling idea. For a developed backstory, try:
 
-- A **105KB core engine** with complete RPG mechanics: character creation, talent trees, class systems, combat, crafting, faction reputation, dungeon generation, companion affinity, and progression from Level 1 to world-shattering power
-- **45 fully realized worlds** spanning every genre imaginable, ranked from F (survivable) to SSS (reality-breaking)
-- A **world template** for creating your own settings compatible with the engine
-- **Meta-instructions** that teach the AI how to run the game across nine structured phases
+```text
+I was an apprentice clockmaker in a city where only nobles could study magic.
+I repaired the academy's clocks, and learned its lessons through the walls.
+One night, every clock stopped at the same impossible hour.
 
-There is no code because there is no code to write. The engine is a system of interlocking knowledge representations; rules, tables, narrative structures, and world-building documents that an AI interprets and executes through natural language interaction. The creative artifact *is* the product.
-
----
-
-## Quick Start
-
-### Choose Your Platform
-
-Any AI model with a large context window and instruction-following capability will work. Recommended:
-
-- **Claude** (Anthropic) - Excellent narrative quality and rule adherence
-- **GPT-5.4 / GPT-6** (OpenAI) - Strong creative output and system comprehension
-- **Gemini** (Google) - Good for extended sessions with large context
-
-### How to Play
-
-The engine is designed to receive information **when it needs it, not all at once.** This keeps the AI's context window focused and produces better results at every stage.
-
-#### Step 1: Ignition
-
-Open a new conversation with your chosen AI. Upload two files together with your first message:
-
-- `engine/Nexus_Singularity_Engine_v4_4.md` (the core rules)
-- `engine/meta-instructions.md` (the AI's game master guide)
-
-In the same message, type **`!isekai.me`** to begin.
-
-That's it. Two files, one command. The engine handles everything from here.
-
-> **Optional: Pre-built backstory.** If you want a richer character without doing the work yourself, run `engine/backstory-generator.md` in a *separate* conversation first. Give it as much or as little as you want ("I was a burned-out Tokyo paramedic" or just `!backstory.me` for full randomization). It will generate a complete backstory and end with `!isekai.me`. Copy the full output into Step 1 as your opening message alongside the two engine files.
-
-#### Step 2: Character Creation
-
-Follow the prompts. The engine will walk you through:
-
-- Your death and transportation method
-- A motivational inquiry that shapes your character build (Power, Freedom, Understanding, Redemption, Peace, Love)
-- Talent and class assignment from weighted pools
-
-No world file is needed yet. Everything in this phase runs from the core engine.
-
-#### Step 3: World Selection
-
-The engine will present 3-5 world options based on your character. When you make your choice, **upload the corresponding world file** from the `worlds/` directory in the same message as your selection.
-
-This is the key moment: the AI now receives the full world knowledge exactly when it needs it. The engine's built-in world summaries are enough for you to choose; the world file is what the AI needs to *run* it faithfully.
-
-> If you choose "Let fate decide," upload the world file the engine selects for you.
-
-#### Step 4: First Breath
-
-The engine places you in a starting zone with multiple entry points. Choose your starting vector from the Alternate Start options the engine presents, and your adventure begins.
-
----
-
-## The Worlds
-
-45 worlds organized by Danger Rank, from mundane social drama to cosmic existential warfare.
-
-### F-Rank (Survivable)
-
-| World | Genre | Hook |
-|-------|-------|------|
-| Cherrywood High | High school social drama / otome | Romance and relationships are the primary progression system |
-| Jurassica | Prehistoric survival | Cubic logic, blocky megafauna, environmental puzzles |
-| Neon Megalopolis | Cyberpunk dystopia | Corporate arcology, surveillance, gang warfare |
-
-### D-Rank (Dangerous)
-
-| World | Genre | Hook |
-|-------|-------|------|
-| Fast Cars Furious Streets | Underground street racing | Crime, high-stakes culture, speed as currency |
-| Aethel | Medieval fantasy plague | The Grey Wasting drains all life and magic |
-| Six Shooters & Stagecoaches | American Old West | Outlaws, cattle barons, frontier justice |
-
-### C-Rank (Hostile)
-
-| World | Genre | Hook |
-|-------|-------|------|
-| Tenebrous Creek | Supernatural small town (Louisiana) | Hidden sanctuary for supernatural beings with intense social politics |
-| Virelia | LitRPG / System World | Visible stats, a governing "Systema," explicit game rules |
-| Shaken Not Stirred | Cold War spy thriller | Alternate history where the Berlin Wall never fell |
-| Neurowarden | Simulated reality thriller | A master AI secretly harvests uploaded human minds |
-| Drive-Thrus & Drag Races | 1950s America + cosmic horror | Divine vs. Necromantic forces behind the chrome and milkshakes |
-| Sarcophagi & Saucers | Ancient Egypt + B-movie sci-fi | Real gods vs. three-foot-tall aliens in duct-taped flying saucers |
-| Silver City Shadows | Noir detective + supernatural | Rain-swept city of crime, corruption, and hidden monsters |
-| Stellar Nursery | Hard sci-fi / nebula mining | Corporate warfare and alien contact in a resource-rich nebula |
-
-### B-Rank (Lethal)
-
-| World | Genre | Hook |
-|-------|-------|------|
-| Hexgold Trail | Fantasy western / frontier alchemy | Magic-infused frontier where alchemy replaces gunpowder |
-| Iron Dawn | Industrial revolution fantasy | Magitech warfare and political upheaval |
-| Tundrahearth | Nordic fantasy civil war | Politics as vital as martial skill |
-| Gods & Empires | Roman Empire + active gods | Deities directly participate in politics and war |
-| Soul Virus | Far-future android war | Humanity weaponizes digitized consciousness against machines |
-| Solar Corps | 25th-century space opera | Transferable consciousness, corporate interplanetary war |
-| Haustoria | Post-cataclysm survival | Mutated environment; survivors hide in bastions |
-| Symphonia | Musical magic system | Sound and harmony as the fundamental forces |
-| Veridia | Nature-magic ecosystem | Living world where the biome itself has intent |
-| Cerulean Expanse | Ocean world exploration | Vast seas, submerged civilizations, aquatic threats |
-| Nine Hells Peaks | Mountaineering + infernal planes | Vertical world where altitude maps to planes of existence |
-| Shattered Tides | Post-apocalyptic archipelago | Broken continents, pirate nations, sea monsters |
-| 33 Heavens Conglomerate | Celestial corporate bureaucracy | Afterlife as a mega-corporation with performance reviews |
-| Necro-Flora Prime | Undead botanical horror | Sentient necromantic plant life consuming a world |
-| Viscera Gardens | Body horror ecosystem | Biological architecture, organic technology, parasitic threats |
-| Jericho Prime | Siege warfare + ancient tech | Walled city-states guarding precursor technology |
-| Vesper Engine | Steampunk mecha | Giant mechanical war machines and industrial espionage |
-| Deus Ex Machina | Divine intervention thriller | Gods use mortals as game pieces in cosmic chess |
-
-### A-Rank (Extreme)
-
-| World | Genre | Hook |
-|-------|-------|------|
-| Elysian Accord | Utopian magitech espionage | Floating continents run by mega-corps; threats are covert |
-
-### AA-Rank (Catastrophic)
-
-| World | Genre | Hook |
-|-------|-------|------|
-| Aegis Earth | Superhero / dimensional invasion | Contemporary Earth with common superheroes and cosmic threats |
-| Empyrean Veil | High fantasy / divine war | Mortal world as a battleground for gods and demons |
-| Chroma Clash | Abstract / surreal combat | Sentient beings of pure color battle for a reality-warping Prism |
-| Stellar Drakonics | Fantasy space opera | Dragons, elves, and dwarves in a galactic-scale conflict |
-
-### AAA-Rank (World-Breaking)
-
-| World | Genre | Hook |
-|-------|-------|------|
-| Kairos | Multiversal entropy | Layered realities consumed by cosmic entropy |
-| Wonderland 5D | Dimensional chaos | Broken time machine shattered all dimensional barriers |
-| Galactic Bolter Boxing | Martial arts space opera | Combat as transcendent art form in a war-torn galaxy |
-
-### S-Rank (Existential)
-
-| World | Genre | Hook |
-|-------|-------|------|
-| Shura no Tenka | Perpetual divine warfare | The planet itself wills endless glorious war between super-warlords |
-
-### SS-Rank (Conceptual Threat)
-
-| World | Genre | Hook |
-|-------|-------|------|
-| Erebos: The Ashen Dream | Post-universal void | Remnant of a dead universe where color and sound no longer exist |
-
-### SSS-Rank (Reality-Defining)
-
-| World | Genre | Hook |
-|-------|-------|------|
-| Maker's Crucible | Cosmic philosophical war | Two civilizations wage war to control the fundamental laws of reality |
-| Draconia Prime | Narrative reality | A planet-city where reality is a "Stable Narrative" threatened by paradoxes |
-
----
-
-## Repository Structure
-
-```
-engine/
-  Nexus_Singularity_Engine_v4_4.md   Core game system (v4.4)
-  meta-instructions.md               How to run the engine (9-phase guide)
-  backstory-generator.md             Optional pre-game character backstory tool
-  world-template.md                  Template for creating new worlds
-worlds/                              45 complete world files
-media/                               World illustrations (coming soon)
-CONTRIBUTING.md                      Guide to creating compatible worlds
-LICENSE                              CC BY-SA 4.0
+!backstory.me please!
 ```
 
----
+Then continue into play with `!isekai.me`. Nexus helps establish motivation, destination, alternate start, and a world-compatible character before arrival. You can also bring an existing traveler and their actual character record.
 
-## Engine Features
+If you name an existing destination whose complete document is missing, Nexus should request that file and hold your choices while you supply it. You can explicitly ask it to create an original world instead.
 
-The Nexus Singularity Engine (v4.4) includes:
+## Choose how you arrive
 
-- **Transportation Origins** - Six methods of arriving in the new world, each with persistent mechanical and narrative consequences
-- **Motivational Inquiry** - Core desire system (Power, Freedom, Understanding, Redemption, Peace, Love) that weights all subsequent character generation
-- **Talent System** - Tiered from F (Minor Convenience) through SSS (Reality Warper), with ultra-rare hidden talents discoverable through play
-- **Class System** - Dozens of classes across combat, magic, crafting, social, and hybrid archetypes, weighted by motivation and backstory
-- **Dungeon Generation** - Procedural dungeon types, trap systems, boss mechanics, and loot tables
-- **Faction & Reputation** - Five-tier standing system from Hostile to Exalted, with mechanical consequences for all social interactions
-- **Companion Affinity** - Relationship progression system for NPCs, with loyalty mechanics and narrative unlocks
-- **Crafting & Economy** - Material gathering, item creation, and market systems scaled to world type
-- **Alternate Start System** - Multiple entry points per world for replayability
-- **Narrative Escalation** - Nine-phase story structure from first breath to arc climax, with world-state consequences
+The shared catalogue offers nine starts, interpreted through each world's setting:
 
----
+| Start | Opening premise |
+|---|---|
+| Classic | Begin with little and make your own foothold. |
+| Academy | Enter a place of study, competition, and discovery. |
+| Guild | Find work, allies, and opportunities through a local institution. |
+| Party | Begin with companions and a shared history. |
+| Deep End | Face immediate danger with room for extraordinary survival. |
+| Recruited Transplant | Arrive through a summons with disclosed terms. |
+| Multiversal Hunter | Bring experience from beyond this world. |
+| Time Travel | Return with knowledge of a particular earlier history. |
+| Awakening | Recover a remembered self and its latent capabilities. |
 
-## Design Philosophy
+Some worlds also offer custom openings. The supplied world defines their assets, relationships, obligations, and usable power.
 
-This project is built on a simple premise: **the most powerful game engine available today is natural language.**
+## A world worth staying in
 
-Traditional game development requires code to mediate between the designer's intent and the player's experience. The Nexus Singularity Engine removes that mediation layer entirely. The rules, the world, the characters, the systems; they are all expressed in the same medium the player uses to interact with them. The AI interprets the knowledge representations, maintains game state, and generates narrative in real time.
+The library contains **45 worlds**: 44 start-aligned destination editions and **Superearth Olympus**, an original academy-fantasy world of enormous landmasses, ocean expanses, varied cultures, and intertwined leveling and cultivation.
 
-This is not a limitation. It is a design choice. The result is a game system that is:
+The broader collection ranges from intimate social drama to magitech civilizations and conceptual realms. World classification, local opening danger, and the setting's power ceiling are distinct. Consult the full destination document for the experience you want.
 
-- **Platform-agnostic** - Runs on any capable AI, no installation required
-- **Infinitely extensible** - Adding a new world means writing a markdown file
-- **Deeply personal** - Every playthrough is unique because the AI adapts to *you*; your backstory, your choices, your style of play
-- **Transparent** - Every rule is readable. There are no hidden systems, no compiled binaries, no black boxes. The entire game is human-readable text.
+Browse the [complete world library](v6/isekai-nexus-world-library/WORLD-INDEX.md).
 
----
+## The eight skills
 
-## Creating New Worlds
+Install all eight. Together they supply the entry point, navigation, procedures, shared rules, and mechanical reference.
 
-See `CONTRIBUTING.md` for the full guide, or use `engine/world-template.md` as a starting point. The basic structure:
+| Upload | Role |
+|---|---|
+| [Nexus entry](v6/isekai-nexus-singularity-engine-v6.zip) | Main entry point and campaign routing. |
+| [Navigation](v6/isekai-nexus-navigation.zip) | Play map, rule ownership, and world access. |
+| [Creation and entry](v6/isekai-nexus-creation-and-entry.zip) | Backgrounds, world creation, intake, evaluation, and arrival. |
+| [Gameplay procedures](v6/isekai-nexus-gameplay-procedures.zip) | Resolution, progression, montage, and recurring activities. |
+| [Character and progression](v6/isekai-nexus-character-and-progression.zip) | Origins, alternate starts, character records, and advancement. |
+| [World and scene](v6/isekai-nexus-world-and-scene.zip) | Presentation, continuity, world logic, and scene rules. |
+| [Social and economy](v6/isekai-nexus-social-and-economy.zip) | Relationships, reputation, inventory, trade, and domains. |
+| [Source and license](v6/isekai-nexus-source-and-license.zip) | Detailed mechanical reference and attribution. |
 
-1. Define your world classification (type, danger level, power ceiling, special features)
-2. Build the world overview and history
-3. Design world-specific mechanics that hook into the engine's talent/class system
-4. Create factions, locations, and NPCs
-5. Define starting conditions and early-game scenarios
+Each archive contains one folder whose name matches its `SKILL.md` metadata. There are no development documents or world files inside these skill archives.
 
-Community-created worlds are welcome. The engine is designed as a platform, not just a game.
+## Built for ongoing play
 
----
+Nexus supports exploration, academy life, cultivation, missions, expeditions, technique creation, personal systems, recovery, relationships, crafting and trade, communities, domains, survival, and multiversal travel.
 
-## License
+Shared rules keep overlapping activities tied to one campaign state. One accomplishment can contribute distinct kinds of growth while each reward applies once. Montage advances an agreed plan and returns to a scene when a meaningful player decision arises.
 
-This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+Player choices and accepted character promises guide play. A powerful protagonist keeps their established capabilities, subject to their actual terms and the destination's documented conditions. Campaign records and fictional time-reset powers have separate meanings.
 
-You are free to share, adapt, remix, and build upon this material for any purpose, including commercial use, under the following terms:
+## What has been tested
 
-- **Attribution** - Give appropriate credit to Lexideck Technologies and link to this repository
-- **ShareAlike** - If you remix or build upon this material, distribute your contributions under the same license
+The creator reports that Gemini accepted all eight individual skill uploads. A live backstory prompt produced the intended opening, and Superearth Olympus offered all nine alternate starts.
 
----
+Local checks confirm eight valid single-skill archives, 23 procedure sections, 265 linked file/anchor references across the combined skill layout, and 45 world files matching the working library. The release preserves the tested skill ZIPs byte for byte.
 
-## About
+These are encouraging opening tests. Sustained progression, mixed activity turns, interruptions, world transfers, and comprehensive access between separately installed skills remain to be tested. Local link checks establish the package's structure; they do not prove Gemini's handling of every dependency.
 
-The Isekai: Nexus Singularity Engine is a project by [Lexideck Technologies](https://lexidecktechnologies.com), Kalamazoo, Michigan.
+If play loses a required rule or world document, provide the missing material rather than treating an improvised replacement as established canon. Keep your own campaign exports and character records for future sessions.
 
-Lexideck Technologies researches novel neural network architectures, multi-agent AI systems, and human-AI interaction frameworks. The Nexus Singularity Engine represents the creative side of that work: using AI not as a tool that replaces human imagination, but as a medium that amplifies it.
+## Repository layout
 
----
+```text
+v6/
+  README.md
+  eight individually uploadable skill ZIPs
+  LICENSE.md
+  ATTRIBUTION.md
+  CHANGELOG.md
+  package-receipt.json
+  SHA256SUMS.json
+  isekai-nexus-world-library/
+    WORLD-INDEX.md
+    LICENSE.md
+    ATTRIBUTION.md
+    worlds/                         45 complete world documents
+engine/                             earlier engine material
+worlds/                             earlier world material
+```
 
-*Your story on Earth has ended. But death is not an ending. It is a recruitment process, and you have been selected.*
+The `v6/` directory is the current Gemini distribution. Earlier repository material remains available for continuity; follow the v6 instructions for this edition. Private development and memory material are excluded.
 
-*Type `!isekai.me` to begin.*
+## License and lineage
+
+Created by **Lexideck Technologies**. Version 6 adapts the earlier Nexus engine into connected play procedures, aligns alternate starts across the world collection, adds Superearth Olympus, and packages the runtime for separate Gemini skill uploads.
+
+The engine and worlds are licensed under **[Creative Commons Attribution-ShareAlike 4.0 International](v6/LICENSE.md)**. You may share and adapt them under those terms. Preserve credit, identify changes, and use the same license for adaptations. See [attribution](v6/ATTRIBUTION.md) and the [v6 changelog](v6/CHANGELOG.md).
+
+**Bring a past. Choose a world. Take your first breath.**
