@@ -27,7 +27,7 @@
     {
       "archive": "isekai-nexus-singularity-engine-v6.zip",
       "entry": "isekai-nexus-singularity-engine-v6/SKILL.md",
-      "sha256": "e85bec6a9c719585e6ab22c1cf7b7e3224340db40851cdabc3f1355670d4e791",
+      "sha256": "07cc180a1cd9648f370cfd559b7047ca2b44768da72e9319303f66138e8b2f0a",
       "source_bytes_preserved": true
     },
     {
@@ -45,7 +45,7 @@
     {
       "archive": "isekai-nexus-world-and-scene.zip",
       "entry": "isekai-nexus-world-and-scene/SKILL.md",
-      "sha256": "3e66e5d7a8e8e1a9279eec749d3609b4cb26be7326bcb65c70e204a8172e2e88",
+      "sha256": "de4f79f3dbad91a434c7abf33e0e1841f470e18a4e975bfed83c7e5c3afa30de",
       "source_bytes_preserved": true
     }
   ],
@@ -63,5 +63,13 @@
   "procedures": 23,
   "worlds": 45,
   "world_content_matches_working_library": true,
-  "sustained_gameplay_verified": false
+  "sustained_gameplay_verified": false,
+  "speech_display_patch": {
+    "changed_archives": [
+      "isekai-nexus-singularity-engine-v6.zip",
+      "isekai-nexus-world-and-scene.zip"
+    ],
+    "android_read_aloud_verified": false,
+    "revised_upload_acceptance_verified": false
+  }
 }

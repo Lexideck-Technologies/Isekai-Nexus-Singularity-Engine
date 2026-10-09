@@ -6,23 +6,23 @@
   },
   {
     "path": "CHANGELOG.md",
-    "bytes": 1701,
-    "sha256": "e4b628eeece0c3635c01fedad86dd9aedc7cde4501eb38dd03d188bec291c9b7"
+    "bytes": 2235,
+    "sha256": "c6dd43060a89f5ccb29d62fbd050eebbad4a5266a873658826579f43d83a2c6a"
   },
   {
     "path": "codex/isekai-nexus-v6-codex.zip",
-    "bytes": 654185,
-    "sha256": "09e138e001b736871df3eda8d1b46f11f4bc3c78ec90bd07205f40c471b5be3c"
+    "bytes": 655875,
+    "sha256": "ce7043b7cb98a225870977684376cf64461472938ebb4efccbf16f80aab01077"
   },
   {
     "path": "codex/README.md",
-    "bytes": 3898,
-    "sha256": "18f14534baad2ae857bd73c0c8694980bb7e6ec7611263550de3795cea999b1e"
+    "bytes": 4253,
+    "sha256": "fe0e163e801744f88c1e9729350a18701560604f7aeb0ccad234d0bc8f88b1db"
   },
   {
     "path": "codex/SHA256SUMS.json",
     "bytes": 22900,
-    "sha256": "eb06bafbaf582675c7d38233530e050c74be4be47192e9f4463ff95bd8de448f"
+    "sha256": "045c181dcb2bd03651bede845f08fc292218316bff3b77805008a1344a18ba2b"
   },
   {
     "path": "codex/skills/isekai-academy/agents/openai.yaml",
@@ -251,8 +251,8 @@
   },
   {
     "path": "codex/skills/isekai-nexus/references/interface-rules.md",
-    "bytes": 3730,
-    "sha256": "399318034fba1f13a986d93928e21d40e525b6009a5420ac1011ca3631bf72e7"
+    "bytes": 5704,
+    "sha256": "ac67618f5ac5e1412ef0e3e4dd0634bacda6c9ebbf12c38000cdd243b6e37e1c"
   },
   {
     "path": "codex/skills/isekai-nexus/references/learning-loops.md",
@@ -346,8 +346,8 @@
   },
   {
     "path": "codex/skills/isekai-nexus/SKILL.md",
-    "bytes": 2466,
-    "sha256": "87ca9f0ba6fbbea8031d8ce8c5eccc8c61aed2b4df7f883903ef44db44691321"
+    "bytes": 3505,
+    "sha256": "687f0b463fa678cc9138441c06a066ee72fe6daa86d21d6318b5322c0dd80f95"
   },
   {
     "path": "codex/skills/isekai-nexus/worlds/33-heavens-conglomerate-isekai.md",
@@ -686,8 +686,8 @@
   },
   {
     "path": "isekai-nexus-singularity-engine-v6.zip",
-    "bytes": 1073,
-    "sha256": "e85bec6a9c719585e6ab22c1cf7b7e3224340db40851cdabc3f1355670d4e791"
+    "bytes": 1574,
+    "sha256": "07cc180a1cd9648f370cfd559b7047ca2b44768da72e9319303f66138e8b2f0a"
   },
   {
     "path": "isekai-nexus-social-and-economy.zip",
@@ -701,8 +701,8 @@
   },
   {
     "path": "isekai-nexus-world-and-scene.zip",
-    "bytes": 21328,
-    "sha256": "3e66e5d7a8e8e1a9279eec749d3609b4cb26be7326bcb65c70e204a8172e2e88"
+    "bytes": 22020,
+    "sha256": "de4f79f3dbad91a434c7abf33e0e1841f470e18a4e975bfed83c7e5c3afa30de"
   },
   {
     "path": "isekai-nexus-world-library/ATTRIBUTION.md",
@@ -951,12 +951,12 @@
   },
   {
     "path": "package-receipt.json",
-    "bytes": 2745,
-    "sha256": "b84255fd94837db3b54082b71bbce976ebb8ef53580a8f5f727f933b17ed8482"
+    "bytes": 2998,
+    "sha256": "3bd8fa7282c6b5f35a7ae600e5a06dc009d7bb45a8d360f7fe854cd8b424d11d"
   },
   {
     "path": "README.md",
-    "bytes": 8570,
-    "sha256": "511b012aa8d1d964a1ac004101be8987a85c90c1e5cf7b6b73f553128665130e"
+    "bytes": 9042,
+    "sha256": "a4b613d40d2b97a1bd9431e85179fc1d4a808724c5787603951105ed22c287bc"
   }
 ]
