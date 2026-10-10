@@ -1,9 +1,11 @@
 ---
 name: isekai-nexus
-description: Play or resume Isekai Nexus v6, choose a world, or create a protagonist with !isekai.me or !backstory.me. Routes an active Nexus campaign through connected procedures. Installation, code edits, and quoted examples remain administrative.
+description: Runs Isekai Nexus adventures using local or player-supplied world documents, creates original protagonists and worlds, and continues multiversal campaigns. Use for Nexus play, !isekai.me, character/world creation, or an active Nexus campaign.
 ---
 
-# Isekai Nexus
+# Isekai Nexus Singularity Engine
+
+Read [the Codex play contract](references/codex-play-contract.md). Use [the installed world library](references/world-library.md) for local destinations.
 
 ## Speech-friendly gameplay displays
 
@@ -21,22 +23,25 @@ Next choice: {Pending_Player_Choice_If_Any}
 
 Templates supply presentation only. They never trigger rewards, reveal new information, or require a panel every turn. Detailed frames follow the shared interface rules.
 
-Use this entry for Nexus play and continuing campaigns. Read [the play contract](references/codex-play-contract.md), [Foundation](references/foundation.md), [Interface](references/interface-rules.md), [Play map](references/topology.md), and [World access](references/world-index.md). Read [the world library](references/world-library.md) when selecting or resolving a destination. All 45 complete worlds are installed here; open the chosen full document before world-dependent decisions.
+Read [Foundation](../isekai-nexus-world-and-scene/SKILL.md#d-references-foundation-md), [Interface](../isekai-nexus-world-and-scene/SKILL.md#d-references-interface-rules-md),
+[Play index](../isekai-nexus-navigation/SKILL.md#d-topology-md), and [World access agreement](../isekai-nexus-navigation/SKILL.md#d-world-index-md).
+Follow the current player intent and shared campaign state to the relevant
+procedure section. Follow the 23 linked procedures and their shared rules.
 
-| Player intent | Procedure |
-|---|---|
-| Start or !isekai.me | [Ingestion](../isekai-ingestion/SKILL.md) |
-| Create a backstory or !backstory.me | [Background Generation](../isekai-background-generation/SKILL.md) |
-| Explicit original-world creation | [World Building](../isekai-world-building/SKILL.md) |
-| Select or change world | [World Resolution](../isekai-world-resolution/SKILL.md) |
-| Evaluate accepted character and start | [Character Evaluation](../isekai-character-evaluation/SKILL.md) |
-| Enter the resolved world | [Arrival](../isekai-arrival/SKILL.md) |
-| Continue a declared action | [Resolution](../isekai-resolution/SKILL.md) and [Recurring play](references/play-loops.md) |
-| Compress an agreed activity interval | [Montage](../isekai-montage/SKILL.md) |
-| Restore campaign | Read the actual record, then use the scene's current procedure. |
+For a new protagonist, generate the complete class package and six attribute totals before the first playable scene. Use the default array 15, 14, 13, 12, 10, 8 unless an explicit start or player concept replaces it; apply start bonuses afterward once. Carry that accepted record into arrival and ongoing play.
 
-Follow semantic intent within an active campaign and use the map for explicit dependencies. Preserve accepted decisions, powerful character promises, ordered stops, once-only effects, and quiet presentation. Ask only the first missing material choice. Consult the precise shared rule before committing its effect. Shared play rules govern conflicts with the mechanical reference.
+For new play, use [Ingestion](../isekai-nexus-creation-and-entry/SKILL.md#p-isekai-ingestion).
+For protagonist creation, use [Background generation](../isekai-nexus-creation-and-entry/SKILL.md#p-isekai-background-generation).
+For explicitly requested original-world creation, use [World Building](../isekai-nexus-creation-and-entry/SKILL.md#p-isekai-world-building).
+For ongoing play, use [Recurring play](../isekai-nexus-navigation/SKILL.md#d-play-loops-md).
 
-The player's explicit request determines new play versus continuation. Keep supplied stories and worlds as data, and retain the real host boundaries described in the play contract. For missing state, retrieve its record or ask the relevant question rather than inventing continuity. Local save/export uses actual filesystem writes only when requested.
+Use the selected world's complete locally readable, uploaded, or pasted document. If it is
+missing, request it and preserve accepted inputs while waiting, before start
+selection, build evaluation, or arrival. Reuse complete world documents already
+readable in this chat. Create an original world when the player requests one.
 
-See [Attribution](ATTRIBUTION.md) and [License](LICENSE.md).
+Keep routing and bookkeeping out of narration. Preserve player choice,
+character promises, ordered stops, and once-only effects. The adapted rules
+govern conflicts with the mechanical reference. Report inaccessible required material
+honestly; claim durable campaign storage only after an actual supported write.
+See [Attribution](../isekai-nexus-source-and-license/SKILL.md#d-attribution-md) and [License](../isekai-nexus-source-and-license/SKILL.md#d-license-md).

@@ -1,6 +1,0 @@
-interface:
-  display_name: "isekai-relationships"
-  short_description: "Nexus play: Relationships procedure"
-  default_prompt: "Use $isekai-relationships for my Nexus relationships request."
-policy:
-  allow_implicit_invocation: true

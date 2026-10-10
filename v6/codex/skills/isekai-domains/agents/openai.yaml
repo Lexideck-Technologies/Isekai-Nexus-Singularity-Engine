@@ -1,6 +1,0 @@
-interface:
-  display_name: "isekai-domains"
-  short_description: "Nexus play: Domains procedure"
-  default_prompt: "Use $isekai-domains for my Nexus domains request."
-policy:
-  allow_implicit_invocation: true

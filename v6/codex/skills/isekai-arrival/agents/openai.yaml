@@ -1,6 +1,0 @@
-interface:
-  display_name: "isekai-arrival"
-  short_description: "Nexus play: Arrival procedure"
-  default_prompt: "Use $isekai-arrival for my Nexus arrival request."
-policy:
-  allow_implicit_invocation: true

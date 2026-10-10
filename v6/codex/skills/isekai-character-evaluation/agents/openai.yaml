@@ -1,6 +1,0 @@
-interface:
-  display_name: "isekai-character-evaluation"
-  short_description: "Nexus play: Character Evaluation procedure"
-  default_prompt: "Use $isekai-character-evaluation for my Nexus character evaluation request."
-policy:
-  allow_implicit_invocation: true

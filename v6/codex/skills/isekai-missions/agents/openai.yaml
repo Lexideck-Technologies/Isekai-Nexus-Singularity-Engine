@@ -1,6 +1,0 @@
-interface:
-  display_name: "isekai-missions"
-  short_description: "Nexus play: Missions procedure"
-  default_prompt: "Use $isekai-missions for my Nexus missions request."
-policy:
-  allow_implicit_invocation: true

@@ -1,158 +1,23 @@
 [
   {
+    "path": "build-receipt.json",
+    "bytes": 196,
+    "sha256": "db5e1d5d93c28b80127dc507d43669dd2b4c692f56552292db4e6157232c9d2a"
+  },
+  {
     "path": "isekai-nexus-v6-codex.zip",
-    "bytes": 655875,
-    "sha256": "ce7043b7cb98a225870977684376cf64461472938ebb4efccbf16f80aab01077"
+    "bytes": 620333,
+    "sha256": "857ce8cc6eaa39e53c3d7cca0899b98d7c3141bedc5579da984109de343d8407"
   },
   {
     "path": "README.md",
-    "bytes": 4253,
-    "sha256": "fe0e163e801744f88c1e9729350a18701560604f7aeb0ccad234d0bc8f88b1db"
-  },
-  {
-    "path": "skills/isekai-academy/agents/openai.yaml",
-    "bytes": 215,
-    "sha256": "76a1d79c54b9e6615d7e5ea23667f3513f05dec7ad58381e43a584c8fa2a702b"
-  },
-  {
-    "path": "skills/isekai-academy/SKILL.md",
-    "bytes": 2361,
-    "sha256": "996b42d61fe49f8bab70c50965843cd8015b0d9991ae9d9b43547626f7586194"
-  },
-  {
-    "path": "skills/isekai-arrival/agents/openai.yaml",
-    "bytes": 215,
-    "sha256": "a9d6f65cfbc8b5b56ebd8ac2c4597dbdccf6881681e4f233e911b458c062776d"
-  },
-  {
-    "path": "skills/isekai-arrival/SKILL.md",
-    "bytes": 6006,
-    "sha256": "4ca7021f934d79d1d80e23b896521a156ccc2df625b307014bdf5a7a3e4f2b4d"
-  },
-  {
-    "path": "skills/isekai-background-generation/agents/openai.yaml",
-    "bytes": 271,
-    "sha256": "8f4e6bb03e4cad020423a91923cf2f0959db5fa651e17053c54cc100a3ad44a3"
-  },
-  {
-    "path": "skills/isekai-background-generation/SKILL.md",
-    "bytes": 4787,
-    "sha256": "186e67edd105a1779de157a263a22d84f35aa86f6ba8443412d58d5978d2534a"
-  },
-  {
-    "path": "skills/isekai-character-evaluation/agents/openai.yaml",
-    "bytes": 267,
-    "sha256": "1e9dce1f4ff23dedbc4006bac29f2f9f6abb7a31cce393e63cff305d512f6ccd"
-  },
-  {
-    "path": "skills/isekai-character-evaluation/SKILL.md",
-    "bytes": 6571,
-    "sha256": "46e99fb91883b102a39e834fb9749e750162df3a3d4a2718875a77abf0d3e635"
-  },
-  {
-    "path": "skills/isekai-community/agents/openai.yaml",
-    "bytes": 223,
-    "sha256": "bda837df4f70d911fa4573a708a10f2d6a32cb4c8e29f99333be1c2d5c9c7f07"
-  },
-  {
-    "path": "skills/isekai-community/SKILL.md",
-    "bytes": 4040,
-    "sha256": "7809064064756917d1bebc10ce23a803a91148f0fa9abdfa1d487b718ef22790"
-  },
-  {
-    "path": "skills/isekai-craft-trade/agents/openai.yaml",
-    "bytes": 231,
-    "sha256": "962550ad8d35c2b693af3ac684cc5b42f2e100640dbea352142ea0f1585766b2"
-  },
-  {
-    "path": "skills/isekai-craft-trade/SKILL.md",
-    "bytes": 4036,
-    "sha256": "b19046774ebb4a052446c29b3f123486817e565c6ca6d13e14c02038585a2c1b"
-  },
-  {
-    "path": "skills/isekai-cultivation/agents/openai.yaml",
-    "bytes": 231,
-    "sha256": "ca440e8d8793cfd1499e2564810ae29ea8bf3f614f3dcee9227e1de31c7730de"
-  },
-  {
-    "path": "skills/isekai-cultivation/SKILL.md",
-    "bytes": 2393,
-    "sha256": "27c29f01bf73e5675f6d2bc33f55fb12c93ac2c6089b28b8bf184e73df7fdfbb"
-  },
-  {
-    "path": "skills/isekai-domains/agents/openai.yaml",
-    "bytes": 215,
-    "sha256": "5622971db654391aa61d62988e8db7bfae8fa6e84ea8beecb78d2e5092b72226"
-  },
-  {
-    "path": "skills/isekai-domains/SKILL.md",
-    "bytes": 4113,
-    "sha256": "37a407378ee3c34624c030a3d33940a241c440facb565c3aa5503e95a48cb2a1"
-  },
-  {
-    "path": "skills/isekai-expeditions/agents/openai.yaml",
-    "bytes": 231,
-    "sha256": "5fb5de76479ee1156fbc3567b51fb617140158edac0d0dd3f925e3ecb9c0d72d"
-  },
-  {
-    "path": "skills/isekai-expeditions/SKILL.md",
-    "bytes": 2738,
-    "sha256": "36ed86ebb574d8f94f319202cdad5d243503662a79c2eb54daf93cd928117687"
-  },
-  {
-    "path": "skills/isekai-exploration/agents/openai.yaml",
-    "bytes": 231,
-    "sha256": "d623c64ec6608c6cddf8bcea24ed2e006a0057174bc9946d4b6e11d8c288d171"
-  },
-  {
-    "path": "skills/isekai-exploration/SKILL.md",
-    "bytes": 2638,
-    "sha256": "9bfe4c79cc2d1de72c3e635073074ada41c84cdb24c70d73db05445653550717"
-  },
-  {
-    "path": "skills/isekai-ingestion/agents/openai.yaml",
-    "bytes": 223,
-    "sha256": "39a894e2b5468c75250b44817636b5248dc85279728dafd8a47c97e85fe3554e"
-  },
-  {
-    "path": "skills/isekai-ingestion/SKILL.md",
-    "bytes": 6158,
-    "sha256": "78d1f2380c686a540abe643e07d32bd3b48145f6c83be30bcbb8cfff42fc4d6d"
-  },
-  {
-    "path": "skills/isekai-missions/agents/openai.yaml",
-    "bytes": 219,
-    "sha256": "adac367979f5d1a8f84522eb4a179b62fda1183a5f52f2780221362236d40b3f"
-  },
-  {
-    "path": "skills/isekai-missions/SKILL.md",
-    "bytes": 2809,
-    "sha256": "19ee630fab3c1a87316b1f9c91534739137b3fc9ccb2566235881f50ade34ace"
-  },
-  {
-    "path": "skills/isekai-montage/agents/openai.yaml",
-    "bytes": 215,
-    "sha256": "7e6695f5e2c10e4ab9106c7320dd0808110827d9fd7b4e6c8cc5a19f3ffa1b82"
-  },
-  {
-    "path": "skills/isekai-montage/SKILL.md",
-    "bytes": 3544,
-    "sha256": "4819719fbcdc635cb6b1717afff526c0c7ddc3c03a5a8adbe15c18bdc310a462"
-  },
-  {
-    "path": "skills/isekai-multiversal-travel/agents/openai.yaml",
-    "bytes": 259,
-    "sha256": "6aa7309410751709dd7d478decc813f3cdbbc65d5252e9f225f731fe62e68231"
-  },
-  {
-    "path": "skills/isekai-multiversal-travel/SKILL.md",
-    "bytes": 3848,
-    "sha256": "a3e396efee091ec493c739703b6e9570a9adc9332da752109d1d4ad7ade166f4"
+    "bytes": 1457,
+    "sha256": "e40bc5ecfbd14f0f1cd104d0c420bf2ae5246c2e3159521ebe431a3cc0402ef3"
   },
   {
     "path": "skills/isekai-nexus/agents/openai.yaml",
-    "bytes": 235,
-    "sha256": "18b83d94a2e6aa5ed94f97e6657eff9cd37b25ab4d168256a2f36c290e60aeba"
+    "bytes": 220,
+    "sha256": "0936e084b24b60effbbd4de6be567c1e7617e7a6327c7c9b77e82521c373e774"
   },
   {
     "path": "skills/isekai-nexus/ATTRIBUTION.md",
@@ -165,159 +30,9 @@
     "sha256": "4b8a03444507406d9651539e6e4a6bcfa5b28edeb45d2dff3de4a8248240fe32"
   },
   {
-    "path": "skills/isekai-nexus/references/adventure-loops.md",
-    "bytes": 4765,
-    "sha256": "a403f32eaac1bdadd49720e9091863b54e6662ed39140a972982924286c40b7f"
-  },
-  {
-    "path": "skills/isekai-nexus/references/alternate-starts.md",
-    "bytes": 4719,
-    "sha256": "bb564d455b818e91e6bda6d184167b896a0dc013b19f62bfcd51392c1fd385a2"
-  },
-  {
-    "path": "skills/isekai-nexus/references/arrival-state.md",
-    "bytes": 4217,
-    "sha256": "aaf2517128078393c2a4116accc01af8eac29009fb45c401f8965a12e8b38e30"
-  },
-  {
-    "path": "skills/isekai-nexus/references/attribution.md",
-    "bytes": 690,
-    "sha256": "1195b3d34cb11c425a70791cfe8d9229d91abdf2a72aac4b317ca48f55ab48a9"
-  },
-  {
-    "path": "skills/isekai-nexus/references/background-data.md",
-    "bytes": 1469,
-    "sha256": "4f76192d52dafc64b5d3488540ffbe08b64f74185587497990d8dd319795e6d7"
-  },
-  {
-    "path": "skills/isekai-nexus/references/character-record.md",
-    "bytes": 2860,
-    "sha256": "782b3e943b15ebcbd812b7f611b7022a7751a7eb194d339e3a25cec32d327d87"
-  },
-  {
-    "path": "skills/isekai-nexus/references/character-rules.md",
-    "bytes": 11550,
-    "sha256": "1c85e96652d2905356ded3c2b990bf89bb7f6d40cffcfcd4227604ab4c6a417b"
-  },
-  {
     "path": "skills/isekai-nexus/references/codex-play-contract.md",
     "bytes": 2104,
     "sha256": "6b9a9f5106eeb60486e71ef4b3e6d30d90c67a3189674db5752685149d11a2ac"
-  },
-  {
-    "path": "skills/isekai-nexus/references/culture-generator.md",
-    "bytes": 2876,
-    "sha256": "59266104ee7f1e4f05bae5b6d158fa23456e39864663a0bfd28fdc1ac7269b4f"
-  },
-  {
-    "path": "skills/isekai-nexus/references/domain-rules.md",
-    "bytes": 4841,
-    "sha256": "844c0b0b896bccbb68b10378c189e44d67cac45e7b3ff8231b5ad863e31d111b"
-  },
-  {
-    "path": "skills/isekai-nexus/references/economy-rules.md",
-    "bytes": 4394,
-    "sha256": "d16e0ba61e9fc13370199582def96df1aa848686252a5b2ea546b2acbcd5ab8f"
-  },
-  {
-    "path": "skills/isekai-nexus/references/foundation.md",
-    "bytes": 5086,
-    "sha256": "bf1fb64d1a52321b27b9997f413c40ab45cd2ff7651b5fc49be1ee6b594c9065"
-  },
-  {
-    "path": "skills/isekai-nexus/references/helpers.md",
-    "bytes": 3792,
-    "sha256": "19aa0843ff502c30c47c5d3333b5ac1adb5ee3ae689668b6ba98ae9c058c2799"
-  },
-  {
-    "path": "skills/isekai-nexus/references/intake-contract.md",
-    "bytes": 2440,
-    "sha256": "086371a3ab3a66d0e499b6c75a950009c20fde687872a832688ecbcbc5d2368a"
-  },
-  {
-    "path": "skills/isekai-nexus/references/interface-rules.md",
-    "bytes": 5704,
-    "sha256": "ac67618f5ac5e1412ef0e3e4dd0634bacda6c9ebbf12c38000cdd243b6e37e1c"
-  },
-  {
-    "path": "skills/isekai-nexus/references/learning-loops.md",
-    "bytes": 5987,
-    "sha256": "e2c8d4dbd797f853aecfcf3cfef52e2b77970a9444aafd2d3f6b71d416a58fcb"
-  },
-  {
-    "path": "skills/isekai-nexus/references/license.md",
-    "bytes": 1721,
-    "sha256": "c97c5142f7479277931d699b8b380e2642306960f43400048e52f9f703eb2f2b"
-  },
-  {
-    "path": "skills/isekai-nexus/references/loop-protocol.md",
-    "bytes": 4035,
-    "sha256": "beb0b395cb88a37cc398950c184c90d78be8ef89883bce0cb8247cb98748ff47"
-  },
-  {
-    "path": "skills/isekai-nexus/references/montage-rules.md",
-    "bytes": 6700,
-    "sha256": "a48a1bbef33872798005cae67e045d9e710a3933cd1b32ee40facaca5037a618"
-  },
-  {
-    "path": "skills/isekai-nexus/references/motivations.md",
-    "bytes": 915,
-    "sha256": "a6723315c940d8666bce311ff893c222a177e83587f432118bd4ff71a6753091"
-  },
-  {
-    "path": "skills/isekai-nexus/references/play-loops.md",
-    "bytes": 9255,
-    "sha256": "6115fc4a76bcf6f582570c7e33d6ff6c20aa49568e265241fda07b8a9c2d4043"
-  },
-  {
-    "path": "skills/isekai-nexus/references/progression-rules.md",
-    "bytes": 16293,
-    "sha256": "311889945845a36bbe487187e42b8671d746a1c51f1f3bb6cba7d8d1ee8c9ce1"
-  },
-  {
-    "path": "skills/isekai-nexus/references/resolution-rules.md",
-    "bytes": 9902,
-    "sha256": "12e7a68a7f0a7dfd8347a2066f33f431dcfcae2715db3a6fcab97150271c64b8"
-  },
-  {
-    "path": "skills/isekai-nexus/references/scene-state.md",
-    "bytes": 4400,
-    "sha256": "ccc35d789d3a08b9ad88e6881783f6ee8e1857eb2783a500b2211ab372b54f2c"
-  },
-  {
-    "path": "skills/isekai-nexus/references/skills-isekai-world-building-assets-world-frame.md",
-    "bytes": 6001,
-    "sha256": "ae0a751fb4361a6617764627da827e7f8ec81f25a9a1066697030ed107b62063"
-  },
-  {
-    "path": "skills/isekai-nexus/references/social-rules.md",
-    "bytes": 13129,
-    "sha256": "55c3156e7c2af7fbda5bb578d9ee3a576e159f1647a899d53c71ee0eecd4a2fc"
-  },
-  {
-    "path": "skills/isekai-nexus/references/system-concepts.md",
-    "bytes": 4504,
-    "sha256": "fa8480dc990cb967f1a3d7a0c38a9f22e166a73cbe0bb6b4856e4f572f86dad0"
-  },
-  {
-    "path": "skills/isekai-nexus/references/topology.md",
-    "bytes": 9482,
-    "sha256": "ebb684d3e8602fb7e6f6b1c84ecf30d40dde85f8e0152302b4e3434f562a8f99"
-  },
-  {
-    "path": "skills/isekai-nexus/references/upstream-engine-nexus-singularity-engine-meta-instructions-v5-1.md",
-    "bytes": 140,
-    "sha256": "c13fc7ef8b017f5cc3410bf42eaab98dfc1ae55ae62b0f41bc380d587e7c7ecf"
-  },
-  {
-    "path": "skills/isekai-nexus/references/upstream-engine-nexus-singularity-engine-v5-1.md",
-    "bytes": 55855,
-    "sha256": "008d9b836c02faefe250c4f820336c3e1130cecdb64bb700b99b3181285cbf0f"
-  },
-  {
-    "path": "skills/isekai-nexus/references/world-index.md",
-    "bytes": 1510,
-    "sha256": "752fed303f14c9aef7f20bc0b2d7c9e0ee3dc4e872da53850ae4495bf9093acc"
   },
   {
     "path": "skills/isekai-nexus/references/world-library.md",
@@ -325,14 +40,9 @@
     "sha256": "4654bbb70122fe2ae7f13c9271c886c568cf62e3823d44bd27c74002c3b05abd"
   },
   {
-    "path": "skills/isekai-nexus/references/world-rules.md",
-    "bytes": 5330,
-    "sha256": "a5da85e818bc6f49348677d3d57acf13c576d3a59990ff03c00621f2e3e620fe"
-  },
-  {
     "path": "skills/isekai-nexus/SKILL.md",
-    "bytes": 3505,
-    "sha256": "687f0b463fa678cc9138441c06a066ee72fe6daa86d21d6318b5322c0dd80f95"
+    "bytes": 3537,
+    "sha256": "1c693a7423e98a09e782a5f3e47de2704d93d72e3b915eb6e398a76f64627474"
   },
   {
     "path": "skills/isekai-nexus/worlds/33-heavens-conglomerate-isekai.md",
@@ -560,93 +270,73 @@
     "sha256": "ccfdee55bf6bfadd4ebd6bb87d6649191fd7248fa36c8d826bc9b3ba7da9b8f2"
   },
   {
-    "path": "skills/isekai-personal-system/agents/openai.yaml",
-    "bytes": 247,
-    "sha256": "8b2acc8a7d4408b6e9d7df10d3aa0b07f630c7bbd83ad1e414253312c7e1fe21"
+    "path": "skills/isekai-nexus-character-and-progression/agents/openai.yaml",
+    "bytes": 272,
+    "sha256": "ace024226f18e6bec989e3539f14e4d33ab86e0d3c308e5851eb0558aaecc694"
   },
   {
-    "path": "skills/isekai-personal-system/SKILL.md",
-    "bytes": 2410,
-    "sha256": "cb9788478ccfdead2b98a95a1cb8d0f649f928813d73646d6e951409e4afa2a6"
+    "path": "skills/isekai-nexus-character-and-progression/SKILL.md",
+    "bytes": 46198,
+    "sha256": "af1a2c73dfa6ccf0b72ec8e3970776d809250156ae7ea1ad408025050ae5bf93"
   },
   {
-    "path": "skills/isekai-progression/agents/openai.yaml",
-    "bytes": 231,
-    "sha256": "ac6cda38c3593c856e7fb57f7a5bc71499933b6382a5369f74e8f2aae1fcf9ef"
+    "path": "skills/isekai-nexus-creation-and-entry/agents/openai.yaml",
+    "bytes": 258,
+    "sha256": "43a16ab446edb7281bb6b405840155d706f68bbc1b73ea49607a238c38fcab21"
   },
   {
-    "path": "skills/isekai-progression/SKILL.md",
-    "bytes": 4134,
-    "sha256": "6a97dd56522cfee593e9a127162a74b11ba3b32611e250285782a798df3b16a8"
+    "path": "skills/isekai-nexus-creation-and-entry/SKILL.md",
+    "bytes": 40985,
+    "sha256": "1c9b03489f63db18e0b140017d8f71fd5aa3399071fc975e4d51f6ca4f0c4ab4"
   },
   {
-    "path": "skills/isekai-recovery/agents/openai.yaml",
-    "bytes": 219,
-    "sha256": "65d9b851566de1001b0a7bb0df0376160c812b4a1e51b9c1603968e72de39cc5"
+    "path": "skills/isekai-nexus-gameplay-procedures/agents/openai.yaml",
+    "bytes": 260,
+    "sha256": "6eb9f8f47e8714a1615e3154cf82a420821bfe2b06ccf5fd4b83490a64893f6e"
   },
   {
-    "path": "skills/isekai-recovery/SKILL.md",
-    "bytes": 2287,
-    "sha256": "4a7f07ebac3169281f9e39f9978a1ac722a508de99dee910aa0bdc0a19ecb461"
+    "path": "skills/isekai-nexus-gameplay-procedures/SKILL.md",
+    "bytes": 48373,
+    "sha256": "1ce39b92e942dddb7d8f67527da67fc32ff5338ea97d4c253a74926648ab7c7d"
   },
   {
-    "path": "skills/isekai-relationships/agents/openai.yaml",
-    "bytes": 239,
-    "sha256": "e8c1a32740fa253aeb6c5eba8d8efa8a647d84b9daed8592ef2a034989104bc5"
+    "path": "skills/isekai-nexus-navigation/agents/openai.yaml",
+    "bytes": 242,
+    "sha256": "2f9afbe2d1a73b7af349086fba0c70c3d32b3b4e4aabbb24a9fab03c2d6818cc"
   },
   {
-    "path": "skills/isekai-relationships/SKILL.md",
-    "bytes": 4073,
-    "sha256": "cc8bcf34b07e8fe11272b544fc83b52e2bb6c528dd21c8ce3953ff7db62684b6"
+    "path": "skills/isekai-nexus-navigation/SKILL.md",
+    "bytes": 24765,
+    "sha256": "3ab890e2f9de24fefbea45251865cead49ec9362dfa9024651db5b10d298e5cc"
   },
   {
-    "path": "skills/isekai-resolution/agents/openai.yaml",
-    "bytes": 227,
-    "sha256": "953a01518f5880fda4ae4d44c9f5889fccc48d634ae9560fbd54ca14f924ee00"
+    "path": "skills/isekai-nexus-social-and-economy/agents/openai.yaml",
+    "bytes": 258,
+    "sha256": "fda2703a9b9f1345710cd9c629f345566f02a3366acfb845a0f8c26a00df5dbe"
   },
   {
-    "path": "skills/isekai-resolution/SKILL.md",
-    "bytes": 3651,
-    "sha256": "2dd5e3ec83b7eb42b2385952978ab2969a28c86ed96e004a109ec39a203c9b8e"
+    "path": "skills/isekai-nexus-social-and-economy/SKILL.md",
+    "bytes": 22867,
+    "sha256": "322c508b1137796c25a5ba87d7bf484c2314ecdfc096aafa71bdd09fa2225996"
   },
   {
-    "path": "skills/isekai-survival/agents/openai.yaml",
-    "bytes": 219,
-    "sha256": "9853ea52103fdea4374605777bb3d667bdb9ed7dcf60316465be46eb9dc15223"
+    "path": "skills/isekai-nexus-source-and-license/agents/openai.yaml",
+    "bytes": 258,
+    "sha256": "6a1119420c778ddb0142d3d517920b0b361b6f807d96e84e26bf68ce6c8859b0"
   },
   {
-    "path": "skills/isekai-survival/SKILL.md",
-    "bytes": 2630,
-    "sha256": "6ba9b5909665e6ab226b5f8b957816dc40d5aada60afc1771e84c4483113dd2e"
+    "path": "skills/isekai-nexus-source-and-license/SKILL.md",
+    "bytes": 57952,
+    "sha256": "273010c1d917c9f0a2685550f55e2a70417e6f67736f725f58846d133e791e0a"
   },
   {
-    "path": "skills/isekai-technique-creation/agents/openai.yaml",
-    "bytes": 259,
-    "sha256": "e9353af4c1ffb6247628bc93bf5273cb8e6e7fd647a835e60877dc4572eb65ac"
+    "path": "skills/isekai-nexus-world-and-scene/agents/openai.yaml",
+    "bytes": 252,
+    "sha256": "5b6a483ca9e8ac48d95fa6b173c73d13d68257a9ca2565b2be4325f232095bbb"
   },
   {
-    "path": "skills/isekai-technique-creation/SKILL.md",
-    "bytes": 2270,
-    "sha256": "7828835020e12ce381109586e2b4651979bcf1013afea83157102454b3bfc91d"
-  },
-  {
-    "path": "skills/isekai-world-building/agents/openai.yaml",
-    "bytes": 243,
-    "sha256": "e5281d023fb8443070758392f26f82847fb81b13a41026fd82993990263ea21e"
-  },
-  {
-    "path": "skills/isekai-world-building/SKILL.md",
-    "bytes": 5879,
-    "sha256": "ac862ad461f71473d8f0da9c2ce206575c35b37ba70432e39d0c60813dce8c5d"
-  },
-  {
-    "path": "skills/isekai-world-resolution/agents/openai.yaml",
-    "bytes": 251,
-    "sha256": "ae086735ad2f262cf57e0d5a3f584d697d7d8590bca84697f573605db560f8ed"
-  },
-  {
-    "path": "skills/isekai-world-resolution/SKILL.md",
-    "bytes": 2375,
-    "sha256": "1e9cad5c4045ca768fa2eaadbd029410eccb87dbcb0330110621ae460dfed24a"
+    "path": "skills/isekai-nexus-world-and-scene/SKILL.md",
+    "bytes": 61031,
+    "sha256": "534e3dbfc42afbd3f37c551732e3dccc6c69942f4de52f53486edb6c552e8e8e"
   }
 ]

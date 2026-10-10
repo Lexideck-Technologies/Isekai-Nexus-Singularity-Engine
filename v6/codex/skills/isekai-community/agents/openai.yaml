@@ -1,6 +1,0 @@
-interface:
-  display_name: "isekai-community"
-  short_description: "Nexus play: Community procedure"
-  default_prompt: "Use $isekai-community for my Nexus community request."
-policy:
-  allow_implicit_invocation: true

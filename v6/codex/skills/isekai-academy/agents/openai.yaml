@@ -1,6 +1,0 @@
-interface:
-  display_name: "isekai-academy"
-  short_description: "Nexus play: Academy procedure"
-  default_prompt: "Use $isekai-academy for my Nexus academy request."
-policy:
-  allow_implicit_invocation: true

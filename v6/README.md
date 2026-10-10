@@ -8,7 +8,7 @@ Version 6 connects 23 play procedures through eight Gemini skills. The worlds tr
 
 ## Choose your edition
 
-- **Codex:** install 24 local skills with the complete world library. Follow the [Codex installation guide](codex/README.md).
+- **Codex:** install eight category skills with the complete world library. Follow the [Codex installation guide](codex/README.md).
 - **Gemini:** upload eight individual skill ZIPs and attach your selected world. Follow the quick start below.
 
 ## Gemini quick start
