@@ -1,6 +1,0 @@
-interface:
-  display_name: "isekai-multiversal-travel"
-  short_description: "Nexus play: Multiversal Travel procedure"
-  default_prompt: "Use $isekai-multiversal-travel for my Nexus multiversal travel request."
-policy:
-  allow_implicit_invocation: true

@@ -1,6 +1,0 @@
-interface:
-  display_name: "isekai-personal-system"
-  short_description: "Nexus play: Personal System procedure"
-  default_prompt: "Use $isekai-personal-system for my Nexus personal system request."
-policy:
-  allow_implicit_invocation: true

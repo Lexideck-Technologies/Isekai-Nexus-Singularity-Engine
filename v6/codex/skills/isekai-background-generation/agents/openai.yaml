@@ -1,6 +1,0 @@
-interface:
-  display_name: "isekai-background-generation"
-  short_description: "Nexus play: Background Generation procedure"
-  default_prompt: "Use $isekai-background-generation for my Nexus background generation request."
-policy:
-  allow_implicit_invocation: true

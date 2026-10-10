@@ -3,13 +3,13 @@
     {
       "archive": "isekai-nexus-character-and-progression.zip",
       "entry": "isekai-nexus-character-and-progression/SKILL.md",
-      "sha256": "1d76b0d7873cccb8ba8346daa7ca590edc5bab3e432d43563314d28759a775ef",
+      "sha256": "d23d45dbf618c3df0cac76424812b646fbb155a23b5d1bb7067ef4c7f571b555",
       "source_bytes_preserved": true
     },
     {
       "archive": "isekai-nexus-creation-and-entry.zip",
       "entry": "isekai-nexus-creation-and-entry/SKILL.md",
-      "sha256": "c2b7d79a3e2be6ea2561f84be33cce93b1d827b4665449dc60421fc39ac2ca1b",
+      "sha256": "e9621156113d4899d6eac00bb875c4f4f3302a66f8bdf8e193911da42a430c0e",
       "source_bytes_preserved": true
     },
     {
@@ -27,7 +27,7 @@
     {
       "archive": "isekai-nexus-singularity-engine-v6.zip",
       "entry": "isekai-nexus-singularity-engine-v6/SKILL.md",
-      "sha256": "07cc180a1cd9648f370cfd559b7047ca2b44768da72e9319303f66138e8b2f0a",
+      "sha256": "4ca8ab67d9ab9ee6b507ad4cae870a84d2afbffaca72668567e9e4b034824e36",
       "source_bytes_preserved": true
     },
     {
@@ -69,7 +69,24 @@
       "isekai-nexus-singularity-engine-v6.zip",
       "isekai-nexus-world-and-scene.zip"
     ],
-    "android_read_aloud_verified": false,
-    "revised_upload_acceptance_verified": false
+    "android_read_aloud_verified": false
+  },
+  "character_generation_revision": {
+    "default_array": [
+      15,
+      14,
+      13,
+      12,
+      10,
+      8
+    ],
+    "live_gameplay_verified": false,
+    "revised_upload_acceptance_verified": false,
+    "changed_archives": [
+      "isekai-nexus-singularity-engine-v6.zip",
+      "isekai-nexus-creation-and-entry.zip",
+      "isekai-nexus-character-and-progression.zip"
+    ],
+    "coverage_review": "Complete character build checked against archived procedure; seal, start, personal-system, resource, progression and continuity requirements retained."
   }
 }

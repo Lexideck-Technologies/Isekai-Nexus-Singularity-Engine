@@ -1,6 +1,6 @@
 interface:
-  display_name: "isekai-nexus"
+  display_name: "isekai-nexus-navigation"
   short_description: "Nexus gameplay category and supporting rules"
-  default_prompt: "Use $isekai-nexus for my Nexus adventure."
+  default_prompt: "Use $isekai-nexus-navigation for my Nexus adventure."
 policy:
   allow_implicit_invocation: true

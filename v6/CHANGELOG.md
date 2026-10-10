@@ -1,4 +1,14 @@
-# Version 6
+# v6 changes
+
+## Grouped skills and complete character builds
+
+Gemini entry, creation-and-entry, and character-and-progression ZIPs now define the six-attribute scale and one class-guided array, once-only modifiers, usable resources, and a complete character record before arrival. Universal allocation frames contain no personal playtest names. Existing traveler records, start variants, personal-system terms, sealed-power recovery, and progression remain covered.
+
+Codex now copies the eight Gemini categories with minimal host adapters and includes all 45 worlds. Replace the previous 24 skill folders outside skill discovery before installing. The version remains v6.
+
+Native validation and local-link checks passed. Revised Gemini upload acceptance and actual Luna gameplay remain untested. A fresh Codex discovery attempt timed out during app-server initialization; prior discovery results apply only to the retired layout.
+
+## Version 6
 
 ## Play architecture
 

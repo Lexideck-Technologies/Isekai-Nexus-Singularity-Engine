@@ -1,6 +1,0 @@
-interface:
-  display_name: "isekai-world-resolution"
-  short_description: "Nexus play: World Resolution procedure"
-  default_prompt: "Use $isekai-world-resolution for my Nexus world resolution request."
-policy:
-  allow_implicit_invocation: true

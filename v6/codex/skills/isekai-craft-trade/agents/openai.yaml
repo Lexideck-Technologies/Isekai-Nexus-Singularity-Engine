@@ -1,6 +1,0 @@
-interface:
-  display_name: "isekai-craft-trade"
-  short_description: "Nexus play: Craft Trade procedure"
-  default_prompt: "Use $isekai-craft-trade for my Nexus craft trade request."
-policy:
-  allow_implicit_invocation: true

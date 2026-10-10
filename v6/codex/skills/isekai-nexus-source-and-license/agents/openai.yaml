@@ -1,0 +1,6 @@
+interface:
+  display_name: "isekai-nexus-source-and-license"
+  short_description: "Nexus gameplay category and supporting rules"
+  default_prompt: "Use $isekai-nexus-source-and-license for my Nexus adventure."
+policy:
+  allow_implicit_invocation: true
